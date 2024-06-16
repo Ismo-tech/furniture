@@ -1,0 +1,390 @@
+#overallWrapper{
+	height: auto;
+	width: 100%;
+	background-color: whitesmoke;
+	padding: 0px;
+	margin: 0%;
+}
+body{
+	height: auto;
+	width: 100%;
+	background-color: whitesmoke;
+	padding: 0px;
+	margin: 0%;
+}
+*{
+	box-sizing: border-box;
+}
+.flexone{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.flextwo{
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+}
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+#firstWrapper{
+	width: 100%;
+	padding: 50px 5%;
+	height: auto;
+	background-color: darkolivegreen;
+}
+#furMenu{
+	margin-bottom: 10%;
+}
+#fur{
+	color: white;
+	font-weight: 900;
+	font-size: 40px;
+}
+#menuIcon{
+	width: 50%;
+}
+#menu{
+	width: 80%;
+}
+#menu a{
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+	font-size: larger;
+}
+#Icon{
+	width: 10%;
+	color: white;
+	font-weight: bolder;
+	font-size: larger;
+}
+#firstWrap{
+	width: 100%;
+	
+}
+#firstWrapLeft{
+	width: 50%;
+
+}
+#mod{
+	font-weight: 700;
+	font-size: 48px;
+	width: 50%;
+	color: white;
+	margin-bottom: 5%;
+}
+#doc{
+	margin-bottom: 5%;
+	width: 70%;
+	line-height: 30px;
+}
+#shoplink{
+	border: 2px solid yellow;
+	color: black;
+	border-radius: 40px;
+	background-color: yellow;
+	padding: 10px 20px;
+	text-decoration: none;
+	font-weight: bolder;
+}
+#explink{
+	border: 2px solid darkred;
+	color: white;
+	border-radius: 40px;
+	background-color: red;
+	padding: 10px 20px;
+	margin-left: 5%;
+	text-decoration: none;
+	font-weight: bolder;
+}
+#firstWrapRight{
+	width: 50%;
+}
+#secondWrapper{
+	width: 100%;
+	background-color: whitesmoke;
+	padding: 50px 5%;
+	margin-top: 4%;
+	margin-bottom: 2%;
+	
+}
+#secondWrap1{
+	width: 20%;
+}
+#craft{
+	font-weight: 600;
+	font-size: 30px;
+	margin-bottom: 7%;
+}
+#don{
+	margin-bottom: 10%;
+	width: 120%;
+	line-height: 30px;
+}
+#firstWraLink{
+	
+}
+#firstlink{
+	border: 1px solid black;
+	border-radius: 40px;
+	background-color: black;
+	color: white;
+	padding: 10px 30px;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: larger;
+}
+#secondWrappers{
+	width: 75%;
+
+}
+#secondWrappers a{
+	text-decoration: none;
+
+}
+
+.proName{
+	color: black;
+	text-align: center;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	font-weight: 600;
+
+}
+.proPrice{
+	color: black;
+	text-align: center;
+	font-weight: bolder;
+	font-size: larger;
+}
+#thirdWrapper{
+	width: 100%;
+	padding: 50px 5%;
+	background-color: whitesmoke;
+	margin-top: 6%;
+}
+#thirdWrappers{
+
+}
+#thirdWrapperLeft{
+	width: 48%;
+}
+#why{
+	font-weight: bolder;
+	font-size: 40px;
+	margin-bottom: 3%;
+}
+#do{
+	margin-bottom: 7%;
+}
+#thirdLeftFirst{
+
+}
+#thirdLeftFirst{
+	margin-bottom: 1%;
+}
+#truck{
+	margin-bottom: 4%;
+}
+#fast{
+	margin-bottom: 3%;
+	font-weight: 600;
+}
+#don{
+	width: 98%;
+}
+
+#thirdWrapperRight{
+	width: 40%;
+}
+#whyImage{
+	border-radius: 40px;
+}
+#weWrapper{
+	margin-top: 10%;
+	width: 100%;
+}
+#weWrapperLeft{
+	width: 50%;
+	position: relative;
+}
+#weWrapOne{
+	position: relative;
+	width: 100%;
+}
+#weWrapTwo{
+	position: absolute;
+	top: 40%;
+	
+}
+#weImg1{
+	border-radius: 20px;
+}
+#weImg2{
+	border-radius: 20px;
+	margin-left: 13%;
+}
+#weImg3{
+	border-radius: 20px;
+	margin-left: 51%;
+	width: 54%;
+
+}
+
+#weWrapperRight{
+	width: 38%;
+}
+#weh{
+	font-weight: 900;
+	font-size: 30px;
+	margin-bottom: 4%;
+	width: 85%;
+}
+#done{
+	line-height: 30px;
+	margin-bottom: 4%;
+}
+#donec{
+	margin-bottom: 3%;
+}
+#chairWrapper{
+	margin-top: 17%;
+}
+#chairWrapOne{
+	width: 30%;
+}
+#chairWrapOne a{
+	text-decoration: none;
+	color: black;
+}
+#no{
+	font-weight: bolder;
+	font-size: 18px;
+	margin-bottom: 3%;
+}
+#quam{
+	margin-bottom: 5%;
+}
+#test{
+	font-weight: bolder;
+	font-size: 30px;
+	margin-bottom: 4%;
+	text-align: center;
+}
+
+#testDiv{
+	text-align: center;
+	width: 100%;
+}
+
+#ut{
+	line-height: 30px;
+}
+#person{
+	margin-top: 3%;
+	border-radius: 100%;
+	width: 5%;
+	margin-bottom: 1%;
+}
+#maria{
+	font-weight: bolder;
+	font-size: 18px;
+	margin-bottom: 1%;
+}
+#recentDiv{
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+#rece{
+	font-weight: bolder;
+	font-size: 30px;
+}
+#viewlink{
+	color: black;
+	font-weight: bolder;
+}
+#middleDiv{
+	
+}
+#middleDivOne{
+	width: 32%;
+}
+#middlepic{
+	border-radius: 40px;
+	margin-bottom: 5%;
+}
+#middlepicWords{
+	margin-left: 5%;
+}
+#time{
+	margin-bottom: 2%;
+}
+#boldword{
+	font-weight: bolder;
+	font-size: larger;
+}
+#namebold{
+	font-weight: bolder;
+}
+#finalDiv{
+	margin-top: 2%;
+	padding: 50px 5%;
+	width: 100%;
+	background-color: white;
+}
+#furni{
+	font-weight: bolder;
+	font-size: 30px;
+	color: darkolivegreen;
+	margin-bottom: 5%;
+	text-decoration: none;
+	background-position:  ;
+}
+#finalDivs{
+	margin-top: 3%;
+}
+#finalone{
+	width: 28%;
+	line-height: 30px;
+}
+#finalTwo{
+	width: 10%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+}
+#finalTwo a{
+	text-decoration: none;
+	color: black;
+}
+#finalIcon{
+	margin-top: 2%;
+	margin-bottom: 5%;
+
+}
+#ico{
+	width: 3%;
+}
+#copyDiv{
+	border-top: 1px solid black;
+	
+}
+#co{
+	margin-top: 2%;
+}
+#tpDiv{
+	width: 20%;
+	margin-top: 2%;
+	margin-left: auto;
+
+}
+
+#tpDiv a{
+	text-decoration: none;
+	color: black;
+
+}
